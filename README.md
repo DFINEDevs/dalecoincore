@@ -25,18 +25,18 @@ Window wallet setup process
 2. locate the dalecoin data directory in your pc "C:\Users\YourUserName\Appdata\Roaming\DaleCoin"
 3. open the folder and create a file dalecoin.conf and paste the following data in it and save.
 
-rpcuser=dalecoinrpc<br/>
-rpcpassword=anypassword<br/>
-rpcallowip=127.0.0.1<br/>
-server=1<br/>
-deamon=1<br/>
-addnode=45.63.8.179<br/>
-addnode=108.61.245.193<br/>
+```
+rpcuser=dalecoinrpc
+rpcpassword=anypassword
+rpcallowip=127.0.0.1
+deamon=1
+addnode=45.63.8.179
+addnode=108.61.245.193
+```
 
 Optional Options | Parameters | Function
 -----------------|------------|---------
 testnet | 0 or 1 | Launch wallet with testnet connection
-gen | 0 or 1 | Enable PoW
 
 
 
@@ -95,20 +95,22 @@ https://mercatox.com/exchange/DALC/BTC
 
 Exchanges trading Dalecoin Mainnet coins
 ======================================
-Coming very soon
+[VinDAX](https://vindax.com/exchange-base.html?symbol=DALC_USDT)<br/>
+[FinexBox](https://www.finexbox.com/market/pair/DALC-USDT.html)
 
 Dalecoin Block Explorer
 =======================
 
-http://explorer.dalecoin.org/
+https://openchains.info/coin/dalecoin
 
-#Our Community
-(Telegram)[https://t.me/dalcc]
-(Twitter)[https://DalecoinN]
-(Facebook)[https://facebook.com/dalecoin]
-(Discord)[https://discord.gg/aNCMvG2]
-(Medium)[https://medium.com/@DalecoinDev]
-(BitcoinTalk Topic)[https://bitcointalk.org/index.php?topic=2057829.0]
+#Our Community<br/>
+[Telegram](https://t.me/dalcc)<br/>
+[Telegram Announcement](https://t.me/dalecoin)<br/>
+[Twitter](https://DalecoinN)<br/>
+[Facebook](https://facebook.com/dalecoin)<br/>
+[Discord](https://discord.gg/aNCMvG2)<br/>
+[Medium](https://medium.com/@DalecoinDev)<br/>
+[BitcoinTalk Topic](https://bitcointalk.org/index.php?topic=2057829.0)<br/>
 
 
 
